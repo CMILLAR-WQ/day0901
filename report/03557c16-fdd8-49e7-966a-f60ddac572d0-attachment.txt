@@ -1,1 +1,0 @@
-('id', 'com.yunmall.lc:id/logon_password_textview')

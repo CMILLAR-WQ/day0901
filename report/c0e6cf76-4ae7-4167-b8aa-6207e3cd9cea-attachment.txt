@@ -1,1 +1,0 @@
-('id', 'com.yunmall.lc:id/button_send')
