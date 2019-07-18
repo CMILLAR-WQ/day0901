@@ -37,4 +37,4 @@ bnal_login010:
   username: "itheimaa"
   pwd: "123456"
   nickname: null
-  expect_toast: "此用户不存在"  
+  expect_toast: "此用户 不存在"
